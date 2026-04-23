@@ -1,69 +1,107 @@
 # 👨‍💻 Ismael de Lima Marques
 
-## 🚀 Desenvolvedor Web
+<h3 align="center">🚀 Desenvolvedor Web</h3>
 
-Sou um desenvolvedor web com mais de 5 anos de experiência criando sites e aplicações modernas, utilizando tecnologias atuais e boas práticas de desenvolvimento.
+<p align="center">
+  <img src="https://img.shields.io/badge/Experiência-2%2B%20anos-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Foco-Web%20Development-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Ativo-success?style=for-the-badge" />
+</p>
 
 ---
 
-## 🛠️ Tecnologias & Linguagens
+## 🧠 Sobre mim
+
+💻 Desenvolvedor web com experiência em criação de aplicações modernas
+⚡ Focado em performance, boas práticas e escalabilidade
+🚀 Sempre evoluindo e aprendendo novas tecnologias
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
 
 ### 💻 Front-end
-- React.js
-- Next.js
-- JavaScript
-- TypeScript
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts" />
+</p>
 
 ### ⚙️ Back-end
-- Node.js
-- Golang
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,go" />
+</p>
 
 ### 🗄️ Banco de Dados
-- SQL
-- NoSQL
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### 🔧 Ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 📌 Experiência
 
 ### 🧠 Iakamora IA (2026 - Atual)
-- Desenvolvimento de plataforma de gerenciamento de IA
-- Uso de stacks modernas
-- Aplicação de boas práticas e arquitetura escalável
+
+* Plataforma de gerenciamento de IA
+* Arquitetura moderna e escalável
 
 ### 💼 CorsiHub (2025 - Atual)
+
 **Desenvolvedor Web Pleno**
-- Desenvolvimento e manutenção de aplicações web
-- Trabalho em equipe utilizando GitHub
-- Metodologias ágeis (Scrum/Kanban)
+
+* Desenvolvimento e manutenção de sistemas web
+* Trabalho em equipe com GitHub
+* Metodologias ágeis
 
 ---
 
 ## ⚡ Habilidades
 
-- Desenvolvimento de aplicações web modernas
-- Experiência com APIs e integração de sistemas
-- Conhecimento em bancos de dados relacionais e não relacionais
-- SEO e otimização para dispositivos móveis
-- Versionamento de código com Git/GitHub
+✔️ Desenvolvimento Full Stack
+✔️ Integração com APIs
+✔️ Banco de dados (SQL & NoSQL)
+✔️ SEO & Responsividade
+✔️ Versionamento com Git
 
 ---
 
 ## 🌎 Idiomas
 
-- Português (Nativo)
-- Inglês (Básico)
+🇧🇷 Português (Nativo)
+🇺🇸 Inglês (Básico)
 
 ---
 
 ## 📫 Contato
 
-- Email: maxwanber@gmail.com
-- Telefone: (69) 99371-6918
-- Localização: Monte Negro - RO
+<p>
+  <a href="mailto:maxwanber@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Telefone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 📊 Status
+## 🚀 Frase
 
-🚀 Sempre buscando evoluir como desenvolvedor e aprender novas tecnologias.
+> "Código limpo hoje, menos problema amanhã."

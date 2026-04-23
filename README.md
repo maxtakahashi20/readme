@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Desenvolvedor Web</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Experiência-2%2B%50anos-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Experiência-5%2B%20anos-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Foco-Web%20Development-black?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Ativo-success?style=for-the-badge" />
 </p>

@@ -2,7 +2,7 @@
 
 ## 🚀 Desenvolvedor Web
 
-Sou um desenvolvedor web com mais de 2 anos de experiência criando sites e aplicações modernas, utilizando tecnologias atuais e boas práticas de desenvolvimento.
+Sou um desenvolvedor web com mais de 5 anos de experiência criando sites e aplicações modernas, utilizando tecnologias atuais e boas práticas de desenvolvimento.
 
 ---
 

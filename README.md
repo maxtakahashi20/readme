@@ -46,7 +46,7 @@
 
 
 
-### 💼 CorsiHub (2025 - Atual)
+### 💼 CorsiHub (2025 - 2026)
 
 **Desenvolvedor Web Pleno**
 

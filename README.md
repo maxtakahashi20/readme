@@ -1,6 +1,6 @@
-# 👨‍💻 Ismael de Lima Marques
+# 👨‍💻 Max Takahashi
 
-<h3 align="center">🚀 Desenvolvedor Web</h3>
+<h3 align="center">🚀 Desenvolvedor Web/.Lua</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Experiência-5%2B%20anos-green?style=for-the-badge" />
